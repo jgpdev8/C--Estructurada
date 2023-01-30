@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\bin\Debug\netcoreapp3.1\Estructurada16.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Bucles\Estructurada16\Estructurada16\obj\Debug\netcoreapp3.1\Estructurada16.genruntimeconfig.cache
