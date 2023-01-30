@@ -1,0 +1,13 @@
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.exe
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.dll
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\bin\Debug\netcoreapp3.1\Estructurada06.pdb
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.dll
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.pdb
+C:\Users\javie\Desktop\DAW\Programación\Bucles\Estructurada06\Estructurada06\obj\Debug\netcoreapp3.1\Estructurada06.genruntimeconfig.cache
